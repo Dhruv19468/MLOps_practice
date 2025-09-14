@@ -1,0 +1,13 @@
+-r requirements.txt
+
+# Testing
+pytest==8.2.2
+coverage==7.5.1
+
+# Code style
+black==24.4.2
+flake8==7.1.1
+
+# Notebooks
+jupyter==1.0.0
+ipykernel==6.29.4
