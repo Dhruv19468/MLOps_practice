@@ -1,4 +1,4 @@
-flask==2.3.2
+flask
 streamlit==1.35.0
 scikit-learn==1.4.2
 pandas==2.2.2
