@@ -32,6 +32,7 @@ jobs:
         pytest
 
   jobs2:
+    needs: jobs1
     runs-on: ubuntu-latest
 
     steps:
